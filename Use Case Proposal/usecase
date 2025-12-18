@@ -1,0 +1,111 @@
+# HireSight AI Market Analytics
+
+## 1. Industry Context
+**Industry:** Artificial Intelligence (AI) & Technology Sector
+
+The AI industry includes companies specializing in machine learning, data science, automation, cloud computing, and AI-driven software solutions.
+
+Human capital is the most critical asset in AI-driven organizations, making HR analytics essential for strategic decision-making in businesses.
+
+---
+
+## 2. Organization Description
+**Organization Name:** HireSight  
+**Type:** Global AI-focused technology company  
+
+**Size:**
+- 5,000+ employees worldwide  
+- Multinational operating across multiple industries  
+
+**Goal:**  
+The HR department seeks to better understand external AI labor market trends in order to align internal hiring and compensation policies with market realities.
+
+---
+
+## 3. Business Problem
+The organization is facing significant challenges in attracting and optimizing AI talent, including:
+
+- Difficulty identifying which AI skills are most in demand  
+- Difficulty benchmarking job posting competitiveness  
+- Salary inconsistencies across countries and roles  
+- Inefficient workforce planning  
+
+**Key Question:**  
+How can the organization use HR analytics to understand AI job market trends, optimize recruitment strategies, control labor costs, and improve job posting competitiveness?
+
+---
+
+## 4. Business Objectives
+This HR analytics use case leverages AI job market and employee data to:
+
+- Analyze trends in AI job roles and required skills  
+- Monitor salary patterns and compensation fairness  
+- Benchmark job posting competitiveness  
+- Improve strategic workforce planning  
+
+---
+
+## 5. Business Value
+This HR analytics solution supports:
+
+- Competitive and equitable salary benchmarking across roles, experience levels, and locations  
+- Aligning salaries with market trends  
+- Skill-based hiring strategies by highlighting skills associated with higher market value  
+- Improved remote work and benefits policies aligned with industry practices  
+
+**Overall**, this use case enhances strategic HR decision-making. By analyzing AI market insights, the organization can better align its recruitment and compensation strategies with market realities.
+
+---
+
+## 6. Analytical Questions
+1. Which AI job roles are most in demand across different countries?  
+2. What technical skills are most frequently required for AI-related positions?  
+3. How has demand for AI jobs evolved over time?  
+4. What is the average salary for different AI roles (e.g., Data Scientist, ML Engineer, AI Researcher)?  
+5. How do salaries vary by location, experience level, and job title?  
+6. How do required skills and years of experience relate to offered salaries for AI roles?  
+7. How does salary vary by company size (small, medium, large)?  
+8. What skills are associated with a higher salary?  
+9. Which industries are posting the most AI roles?  
+10. How does the remote ratio (remote vs hybrid vs on-site) vary by AI role, location, and company size?  
+11. How does benefits_score vary by role and industry, and what does this suggest about how attractive or detailed different AI job postings are?
+
+---
+
+## 7. Key Performance Indicators (KPIs)
+
+1. **AI Job Demand by Role & Country**  
+   Identifies which AI roles are most demanded in specific countries.
+
+2. **Skill Demand Frequency**  
+   Reveals the most in-demand AI skills in job postings.
+
+3. **AI Job Demand Growth Rate**  
+   Shows how AI job demand is evolving over time.
+
+4. **Average Salary by AI Role**  
+   Allows comparison of compensation across AI positions.
+
+5. **Salary Variation Index**  
+   Highlights salary inequality and country differences.
+
+6. **Experience–Salary Correlation**  
+   Measures how strongly experience impacts compensation.
+
+7. **Salary by Company Size**  
+   Shows how compensation differs based on organizational scale.
+
+8. **Skill Premium Index**  
+   Identifies skills associated with higher salaries.
+
+9. **Industry AI Hiring Share**  
+   Identifies industries most actively hiring AI professionals.
+
+10. **Remote Work Ratio**  
+    Shows flexibility trends across roles, locations, and company sizes.
+
+11. **Benefits Attractiveness Score**  
+    Indicates how detailed and attractive job offers are beyond salary.
+
+12. **High-Value Role Index**  
+    Identifies the most competitive AI job offerings.
