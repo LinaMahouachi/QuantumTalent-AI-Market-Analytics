@@ -79,9 +79,9 @@ SELECT
     education_required,
     TRY_CAST(years_experience AS INT),
     CASE 
-        WHEN years_experience  BETWEEN 0 AND 2 THEN '0–2'
-        WHEN years_experience  BETWEEN 3 AND 5 THEN '3–5'
-        WHEN years_experience  BETWEEN 6 AND 10 THEN '6–10'
+        WHEN years_experience  BETWEEN 0 AND 2 THEN '0â€“2'
+        WHEN years_experience  BETWEEN 3 AND 5 THEN '3â€“5'
+        WHEN years_experience  BETWEEN 6 AND 10 THEN '6â€“10'
         WHEN years_experience  > 10 THEN '10+'
         ELSE 'Unknown'
     END AS experience_range,
