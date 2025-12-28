@@ -37,4 +37,14 @@ The project simulates a real-world **HR analytics use case**, where raw job post
 - **CSV data sources**
 - **GitHub** for version control and collaboration
 
+## ETL process 
+
+This project includes an ETL  pipeline that processes AI job listings data, to reproduce the ETL process follow toi step below:
+**1  Download the Raw Dataset** : The raw dataset is included in this repository at datasets/ai_jobs_row.csv 
+**2 Open the ETL Notebook** :The ETL pipeline is implemented in the Jupyter notebook etl.ipynb 
+**3  Run the ipynb file**: 
+- Launch Jupyter Notebook or JupyterLab in your environment
+- -Open etl.ipynb
+- Execute each code cell sequentially to run the ETL process: extracting,transforming,loading and verifying
+
 
